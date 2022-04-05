@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Hamse Abdi
+#### I am Software Developer
+![I am Software Developer](https://pbs.twimg.com/profile_banners/1500521722377814017/1647455609/1500x500)
 
-<!--
-**HamseAbdi03/hamseabdi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am senior student in Frantz Fanon University Department of Information Technology. I am Freelancer Software Developer Working With Home.
 
-Here are some ideas to get you started:
+Skills: VUE JS / .NetCore / JS / HTML / CSS / Tailwind / TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
