@@ -5,14 +5,10 @@
 I am senior student in Frantz Fanon University Department of Information Technology. I am Freelancer Software Developer Working With Home.
 
 ## Skills: 
-- VUE JS  
-- .NetCore 
-- JavaScript
-- HTML 
-- CSS
-- Tailwind
-- TypeScript
-- Postgress
+- VUE JS                  - .NetCore 
+- JavaScript              - HTML 
+- CSS                     - Tailwind
+- TypeScript              - Postgress
 
 - 🔭 I’m currently working on Large Project. 
 
