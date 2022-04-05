@@ -6,7 +6,7 @@ I am senior student in Frantz Fanon University Department of Information Technol
 
 ## Skills: 
 - VUE JS                 
--.NetCore 
+- .NetCore 
 - JavaScript            
 - HTML 
 - CSS                    
