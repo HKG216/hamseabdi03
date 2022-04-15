@@ -1,11 +1,11 @@
 # Hamse Abdi Mohamed
 ### I am Software Developer
-![image](https://user-images.githubusercontent.com/95931580/163634376-80ff025b-31ae-4413-8b1c-5ae08ed34f10.png)
+![image](https://user-images.githubusercontent.com/95931580/163635326-5a43685b-f279-4e7f-8a68-aff2a731252f.png)
 
 I am senior student in Frantz Fanon University Department of Information Technology. I am Freelancer Software Developer Working With Home.
 
 ## Skills: 
-![image](https://user-images.githubusercontent.com/95931580/163635179-11b377fd-4985-4bb9-bca6-97e68565f1ff.png)
+![image](https://user-images.githubusercontent.com/95931580/163635340-e599179e-c239-4114-857e-55d74172ff09.png)
 
 - 🔭 I’m currently working on Examination System in Frantz Fanon University. 
 
