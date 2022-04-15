@@ -1,6 +1,6 @@
-## Hamse Abdi Mohamed
+# Hamse Abdi Mohamed
 #### I am Software Developer
-![image](https://user-images.githubusercontent.com/95931580/163634288-7b819775-f6f3-42c4-b1ed-ca76f55001fa.png)
+![image](https://user-images.githubusercontent.com/95931580/163634376-80ff025b-31ae-4413-8b1c-5ae08ed34f10.png)
 
 I am senior student in Frantz Fanon University Department of Information Technology. I am Freelancer Software Developer Working With Home.
 
