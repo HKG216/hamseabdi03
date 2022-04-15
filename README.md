@@ -5,7 +5,7 @@
 I am senior student in Frantz Fanon University Department of Information Technology. I am Freelancer Software Developer Working With Home.
 
 ## Skills: 
--![image](https://user-images.githubusercontent.com/95931580/163634947-c963bb0d-bf92-4f78-896f-c7740c38d07c.png)
+![image](https://user-images.githubusercontent.com/95931580/163635179-11b377fd-4985-4bb9-bca6-97e68565f1ff.png)
 
 - 🔭 I’m currently working on Examination System in Frantz Fanon University. 
 
