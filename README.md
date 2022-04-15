@@ -1,6 +1,7 @@
 ## Hamse Abdi Mohamed
 #### I am Software Developer
-![I am Software Developer](https://scontent.fhga3-1.fna.fbcdn.net/v/t39.30808-6/277741791_1312426095915246_7821862430105018693_n.png?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=fvUwSDNtDvgAX9dRTtr&_nc_ht=scontent.fhga3-1.fna&oh=00_AT_m716W7MLDDHfWGBALNvA7ewmCzOPOJdTCNgy2JzSMyA&oe=62509AB9)
+![I am Software Developer](![image](https://user-images.githubusercontent.com/95931580/163630842-ca560558-d6e3-4424-9a08-d83c5f7cf3a0.png)
+)
 
 I am senior student in Frantz Fanon University Department of Information Technology. I am Freelancer Software Developer Working With Home.
 
