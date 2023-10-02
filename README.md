@@ -1,5 +1,5 @@
 # Hamse Abdi Mohamed
-Hi, I am junior software developer.
+Hi, I am junior software developer, I am highly energetic in user experience design, interfaces and web development.
 
 ![](https://komarev.com/ghpvc/?username=hamseabdi03&label=PROFILE+VIEWS)
 
